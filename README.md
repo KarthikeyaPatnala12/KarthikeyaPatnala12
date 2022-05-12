@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarthikeyaPatnala12
-- 👀 I’m interested in Cyber security, ethical hacking etc.
+- 👀 I’m interested in GSOC, Programming and Ethical hacking etc.
 - 🌱 I’m currently learning Basics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Instagram @karthikeyapatnala
